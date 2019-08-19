@@ -1,7 +1,7 @@
 const Config = {
 	source: {
 		protocol: 'http',
-		baseUrl: 'source.example.com',
+		baseUrl: 'localhost:80',
 	},
 	destination: {
 		protocol: 'http',
